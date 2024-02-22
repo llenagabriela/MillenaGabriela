@@ -1,4 +1,4 @@
-# Eaii! Eu sou a  MillenaGabriela!
+# Eaii! Eu sou a  Mia!
 - 🎓 Estudante de Analise e Desenvolvimento de Sistema
 - 🧠 MySQL, C++, C#, Delphi, Java, HTML, CSS, Figma, Canva, GitLab;
 - 🌱 Aprendendo React e mais sobre a WEB
